@@ -8,3 +8,4 @@
 2.  User has exited the vehicle-building interface.
 
 ### Workflow:
+![image](https://user-images.githubusercontent.com/79338042/226156786-6b2b4ae5-59bc-452a-91ad-89e280264553.png)
