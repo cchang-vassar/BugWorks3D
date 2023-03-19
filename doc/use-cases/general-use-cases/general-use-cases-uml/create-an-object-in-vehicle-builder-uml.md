@@ -38,3 +38,5 @@ endwhile (no)
 stop
 @enduml
 ```
+![create-an-object-in-vehicle-builder-uml-diagram](https://user-images.githubusercontent.com/79338042/226199501-fce6c6eb-2d1b-46bf-802f-80c004b377f0.png)
+
