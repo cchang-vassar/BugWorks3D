@@ -3,6 +3,7 @@
 title Create a simple object in vehicle-building UI
 skin rose
 skinparam backgroundColor transparent
+skinparam titleFontColor white
 skinparam defaultFontName Aapex
 
 'define swimlanes
