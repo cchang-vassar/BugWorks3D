@@ -8,4 +8,4 @@
 2.  User has exited the vehicle-building interface.
 
 ### Workflow:
-![create-an-object-in-vehicle-builder-uml-diagram](https://user-images.githubusercontent.com/79338042/226199342-49774dbd-b127-429b-bf9a-d822be945a0b.png)
+![create-an-object-in-vehicle-builder-uml-diagram](https://user-images.githubusercontent.com/79338042/226199547-e26c266f-76c6-4e0d-bf3b-85e60a4bc736.png)
